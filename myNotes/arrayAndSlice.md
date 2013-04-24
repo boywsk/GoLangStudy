@@ -92,14 +92,14 @@
 
 
 [arraysInitDemo_play]:http://play.golang.org/p/SHJBJ8hAw1
-[arraysInitDemo]:https://github.com/devYu/GoLangStudy/tree/master/codeDemo/arrays/arraysInitDemo.go
+[arraysInitDemo]:https://github.com/devYu/GoLangStudy/blob/master/codeDemo/arrays/arraysInitDemo.go 
 [arraysValueDemo_play]:http://play.golang.org/p/3ejYrjlfnm
-[arraysValueDemo]:https://github.com/devYu/GoLangStudy/tree/master/codeDemo/arrays/arraysValueDemo.go
+[arraysValueDemo]:https://github.com/devYu/GoLangStudy/blob/master/codeDemo/arrays/arraysValueDemo.go
 [arraysForDemo_play]:http://play.golang.org/p/XyypK-D7Bk
-[arraysForDemo]:https://github.com/devYu/GoLangStudy/tree/master/codeDemo/arrays/arraysForDemo.go
+[arraysForDemo]:https://github.com/devYu/GoLangStudy/blob/master/codeDemo/arrays/arraysForDemo.go
 
 [slicesInitDemo_play]:http://play.golang.org/p/7srUx-HM0p
-[slicesInitDemo]:https://github.com/devYu/GoLangStudy/tree/master/codeDemo/arrays/slicesInitDemo.go
+[slicesInitDemo]:https://github.com/devYu/GoLangStudy/blob/master/codeDemo/arrays/slicesInitDemo.go
 [slicesValueDemo_play]:http://play.golang.org/p/sQgYIurZoy
-[slicesValueDemo]:https://github.com/devYu/GoLangStudy/tree/master/codeDemo/arrays/slicesValueDemo.go
+[slicesValueDemo]:https://github.com/devYu/GoLangStudy/blob/master/codeDemo/arrays/slicesValueDemo.go
 
