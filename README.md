@@ -12,6 +12,7 @@ GoLangStudy
 + [常量](https://github.com/devYu/GoLangStudy/blob/master/myNotes/constant.md)
 + [数组、切片](https://github.com/devYu/GoLangStudy/blob/master/myNotes/arrayAndSlice.md)
 + [控制语句](https://github.com/devYu/GoLangStudy/blob/master/myNotes/controlStructures.md)
++ [函数上](https://github.com/devYu/GoLangStudy/blob/master/myNotes/function.md)
 
 
 
