@@ -236,5 +236,13 @@ select
 
   还有另一个控制语句select，在讨论chan 时再来学习
 
+本笔记中所写代码存储位置：
+
++ [defer.go](https://github.com/devYu/GoLangStudy/tree/master/codeDemo/defer.go)
++ [defineFunctionType.go](https://github.com/devYu/GoLangStudy/tree/master/codeDemo/defineFunctionType.go)
++ [function.go](https://github.com/devYu/GoLangStudy/tree/master/codeDemo/function.go)
+
 
 [上一篇(数组和切片)](https://github.com/devYu/GoLangStudy/blob/master/myNotes/arrayAndSlice.md)
+
+[下一篇（函数上）](https://github.com/devYu/GoLangStudy/blob/master/myNotes/function.md)

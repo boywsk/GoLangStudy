@@ -270,5 +270,11 @@ defer 又是一个创新，它的作用是：延迟执行，在声明时不会�
 
 后续，我将讨论： 作用域、传值和传指针 以及 保留函数init(),main() 
  
+本笔记中所写代码存储位置：
+
++ [defer.go](https://github.com/devYu/GoLangStudy/tree/master/codeDemo/defer.go)
++ [defineFunctionType.go](https://github.com/devYu/GoLangStudy/tree/master/codeDemo/defineFunctionType.go)
++ [function.go](https://github.com/devYu/GoLangStudy/tree/master/codeDemo/function.go)
+
 
 [上篇-控制语句](https://github.com/devYu/GoLangStudy/blob/master/myNotes/controlStructures.md) 
